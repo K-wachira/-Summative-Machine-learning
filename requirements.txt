@@ -2,7 +2,7 @@ streamlit
 sklearn
 pandas
 numpy
-re
+regex
 keras
 tensorflow
 tweepy
