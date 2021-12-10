@@ -4,5 +4,5 @@ pandas
 numpy
 regex
 keras
-tensorflow
+tensorflow-cpu
 tweepy
